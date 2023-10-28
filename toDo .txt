@@ -1,0 +1,6 @@
+go to home page
+choose kind of clothing u want to wear
+send the clothes u want to product details page
+check if logged in
+add to cart
+then check out 
